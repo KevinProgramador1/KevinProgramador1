@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Kevin! 👋
+
+I'm 25 years old currently learning from Colombia
+
+
 
 <!--
 **KevinProgramador1/KevinProgramador1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
